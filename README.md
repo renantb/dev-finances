@@ -35,7 +35,7 @@ The dev.finances is a financial control application, where you can register and 
 
 ## 🔖 Layout
 
-You can view the project layout through [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). Account is required at [Figma](https://figma.com) to access it.
+You can view the project layout through [this link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). Account is required at [Figma](https://figma.com) to access it.
 
 ## :memo: License
 
