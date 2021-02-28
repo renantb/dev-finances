@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Projects">Projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-License">License</a>
 </p>
@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 - CSS
 - JavaScript
 
-## 💻 Projects
+## 💻 Project
 
 The dev.finances is a financial control application, where you can register and delete transactions and see the incoming and outgoing balance 💰
 
