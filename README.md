@@ -37,7 +37,7 @@ The dev.finances is a financial control application, where you can register and 
 
 You can view the project layout through [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). Account is required at [Figma](https://figma.com) to access it.
 
-## :memo: Licença
+## :memo: License
 
 This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 
