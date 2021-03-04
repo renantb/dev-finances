@@ -12,6 +12,8 @@
   <a href="#memo-License">License</a>
 </p>
 
+
+
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 
@@ -24,7 +26,7 @@
   <img alt="dev.finances" src="github/devfinances.png" width="100%">
 </p>
 
-## :construction_worker: Installation
+## 👷‍ Installation
 
 **You need to install at least [NodeJS 12.18.2](https://nodejs.org/) and [Yarn](https://classic.yarnpkg.com/en/docs/install/), then in order to clone the project via HTTPS, run this command:**
 
