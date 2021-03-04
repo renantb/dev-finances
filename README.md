@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="#-Installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Getting-Started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Issues">Issues</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,27 +31,6 @@
 
 ```git clone https://github.com/renantb/dev-finances```
 
-**Install Dependencies**
-
-In the project directory, you have to run:
-
-`yarn`
-
-This command will install all dependencies. It may take a while.
-
-# 💰 Getting Started
-
-**Starting**
-
-In the project directory, you can run:
-
-`yarn dev`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ## 🐛 Issues
 
