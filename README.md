@@ -80,4 +80,4 @@ This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for
 
 ---
 
-Made with ♥ by Renan 
+Made with ♥ by [Renan Bastos](https://github.com/renantb) 
