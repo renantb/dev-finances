@@ -31,6 +31,8 @@
 
 ```git clone https://github.com/renantb/dev-finances```
 
+I used [VS Code](https://code.visualstudio.com/) to code and edit and use also the extension called [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to build and see the changes made. When you install click on the bottom right corner in Go Live and a browser page will open showing the project.
+
 
 ## 🐛 Issues
 
